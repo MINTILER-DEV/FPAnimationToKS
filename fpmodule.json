@@ -1,0 +1,8 @@
+{
+  "sourceDir": "src",
+  "entryPoint": "main.lua",
+  "includes": [
+    "README.md",
+    "src/main.lua"
+  ]
+}
